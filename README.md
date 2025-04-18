@@ -1,3 +1,4 @@
+# 🌸 Flower Recognition Using Machine Learning 🌸
 ## Overview:
 This project aims to classify flower species using machine learning techniques. The dataset consists of images of different flowers, and the goal is to train a model that can predict the species of a flower based on its image. By the end of this project, we will have successfully built and trained a Convolutional Neural Network (CNN) using TensorFlow and Keras.
 
