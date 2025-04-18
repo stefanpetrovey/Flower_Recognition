@@ -5,7 +5,7 @@ This project aims to classify flower species using machine learning techniques. 
 ### Steps Involved:
 **Data Loading:**
 
-  -The dataset of flower images is loaded and preprocessed for training. This involves resizing the images and performing necessary data augmentation to improve the model’s generalization.
+  The dataset of flower images is loaded and preprocessed for training. This involves resizing the images and performing necessary data augmentation to improve the model’s generalization.
 
 **Model Architecture:**
 
