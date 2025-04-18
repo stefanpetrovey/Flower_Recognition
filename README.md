@@ -10,7 +10,7 @@ The dataset of flower images is loaded and preprocessed for training. This invol
 **Model Architecture:**
 
 A Convolutional Neural Network (CNN) is used to classify the flower images. The model architecture is designed to extract features from the images and learn patterns specific to each flower species.
-
+> This is a blovkquote
 **Model Training:**
 
 The model is trained using the preprocessed dataset. The training process includes optimizing the model using a loss function and adjusting weights based on backpropagation.
