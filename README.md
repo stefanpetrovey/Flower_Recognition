@@ -2,7 +2,7 @@
 This project aims to classify flower species using machine learning techniques. The dataset consists of images of different flowers, and the goal is to train a model that can predict the species of a flower based on its image. By the end of this project, we will have successfully built and trained a Convolutional Neural Network (CNN) using TensorFlow and Keras.
 
 ### Steps Involved:
-** Data Loading: **
+Data Loading:
 
 The dataset of flower images is loaded and preprocessed for training. This involves resizing the images and performing necessary data augmentation to improve the model’s generalization.
 
@@ -22,5 +22,5 @@ Prediction:
 
 Finally, we use the trained model to make predictions on unseen images, and the model classifies them into one of the flower species.
 
-Conclusion:
+### Conclusion:
 By the end of this project, we successfully trained a model that can predict the species of a flower based on its image. The final model achieves high accuracy and can be used for real-time flower recognition tasks.
